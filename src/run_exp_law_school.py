@@ -26,7 +26,7 @@ df['Y'] = np.where(df['Score'] >= min_score, 1, 0)
 
 # ST-specific params
 # k-neighbors
-k_list = [15, 30, 50, 100]
+k_list = [25, 50, 100, 200, 500]
 # significance level
 alpha = 0.05
 # tau deviation
