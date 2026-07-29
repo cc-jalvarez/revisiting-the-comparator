@@ -8,7 +8,7 @@ If you make use of the code or the MM framework in your work, please cite the fo
 
 <pre><code>
 @article{journals/coin/AlvarezR26,
-    author = {\textbf{J. M. {\'{A}}lvarez} and Salvatore Ruggieri},
+    author = {J. M. {\'{A}}lvarez and Salvatore Ruggieri},
     title = {Mutatis Mutandis: Revisiting the Comparator in Discrimination Testing},
     journal = {Computational Intelligence},
     volume = {42},
